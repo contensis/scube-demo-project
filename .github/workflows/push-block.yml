@@ -14,7 +14,7 @@ on:
         required: true
         type: string
       alias:
-        default: leif
+        default: trial-039
         type: string
       project-id:
         default: website
